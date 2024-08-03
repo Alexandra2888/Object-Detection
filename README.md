@@ -206,11 +206,14 @@ export const renderPredictions = (predictions, ctx) => {
 ```
 
 🌐 Live Demo
-See the app in action on Vercel: https://object-detection-zeta-flax.vercel.app/
+
+ See the app in action on Vercel: https://object-detection-zeta-flax.vercel.app/
 
 
 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
+
+ Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
 
 📄 License
+
 This project is licensed under the MIT License.
