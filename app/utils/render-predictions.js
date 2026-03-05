@@ -1,5 +1,3 @@
-import {throttle} from "lodash";
-
 export const renderPredictions = (predictions, ctx) => {
   ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
 
